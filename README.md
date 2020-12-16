@@ -1,0 +1,1 @@
+Das Programm wird kompiliert mit dem Befehl javac HelloWorld.java und ausgeführt mit dem Befehl java HelloWorld
